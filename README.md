@@ -180,9 +180,9 @@ $ sudo docker exec -it main bash
 들어간후
 telnet 172.20.0.4 80
 
+```
 ![image](https://github.com/Seull1/docker-nginx-vhost/assets/148920003/2748a6bb-848c-4b3c-be61-608c01bc4b3b)
 
-```
 ## main 접속시 nginx 만 뜬다면 서버 리스타트를 해야한다
 
 
