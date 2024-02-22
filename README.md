@@ -193,5 +193,8 @@ telnet 172.20.0.4 80
 새로고침시
 ![image](https://github.com/Seull1/docker-nginx-vhost/assets/148920003/5e6f6f5f-8a77-4e7e-9b4d-cd7221324eb4)
 
+## nginx-routing
+- [ ] 
+
 ### Thanks
 ![LGTM](https://i.lgtm.fun/1cvq.gif)
