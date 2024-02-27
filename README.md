@@ -199,5 +199,8 @@ nginx -s reload
 ## nginx-routing
 - [ ] 
 
+## jenkins
+- [ ]
+
 ### Thanks
 ![LGTM](https://i.lgtm.fun/1cvq.gif)
