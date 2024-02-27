@@ -1,6 +1,6 @@
 docker build -t s-1 -f server-1/Dockerfile /home/seull/code/docker-nginx-vhost/server-1
 docker build -t s-2 -f server-2/Dockerfile /home/seull/code/docker-nginx-vhost/server-2
-docker build -t lb:1 -f main/Dockerfile /home/seull/code/docker-nginx-vhost/main/
+docker build -t lb -f main/Dockerfile /home/seull/code/docker-nginx-vhost/main/
 docker build -t blog -f /home/seull/code/seull.blog-copy/docker/blog-a/Dockerfile /home/seull/code/docker-nginx-vhost/blog
 
 docker run -itd -p 9000:80 --name lb nginx:latest
